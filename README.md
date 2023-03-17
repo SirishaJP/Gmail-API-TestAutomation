@@ -1,4 +1,4 @@
-# AMS Python Google API Challenge, by Sirisha Jotheeswaran Padmasekhar
+#  GMail API by Sirisha Jotheeswaran Padmasekhar
 
 ### Introduction 
 
