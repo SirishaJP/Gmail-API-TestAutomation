@@ -1,4 +1,4 @@
-#  GMail API by Sirisha Jotheeswaran Padmasekhar
+#  GMail API
 
 ### Introduction 
 
